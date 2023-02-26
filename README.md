@@ -7,3 +7,4 @@ how to use:
   3. run command in cli `pip install -r requirements.txt`
   4. change `app.config['SQLALCHEMY_DATABASE_URI']` to your db directory on your local folder
   5. run the script from terminal using `python main.py`
+  6. open link `http://127.0.0.1:5000`
